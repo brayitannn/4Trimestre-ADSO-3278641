@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+  "dev": "next dev",
+    "build": "cd mi-app-user-with-next-js && npm run build",
+    "start": "cd mi-app-user-with-next-js && npm run start"
+  },
+  "dependencies": {
+    "lucide-react": "^1.12.0",
+    "next": "^16.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3"
+  }
+}
